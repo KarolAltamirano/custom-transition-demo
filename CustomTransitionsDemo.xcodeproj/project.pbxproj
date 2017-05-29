@@ -64,67 +64,67 @@
 		1371F67B1ED5710D00F1117B /* CustomTransitionsDemo */ = {
 			isa = PBXGroup;
 			children = (
-				1371F69B1ED5A0ED00F1117B /* application */,
-				1371F6911ED572B800F1117B /* controllers */,
-				1371F69D1ED5A2F500F1117B /* delegates */,
-				1371F6921ED572DA00F1117B /* animators */,
-				1371F6971ED5944D00F1117B /* interactors */,
-				1371F69A1ED5A0DC00F1117B /* views */,
+				1371F69B1ED5A0ED00F1117B /* Application */,
+				1371F6911ED572B800F1117B /* Controllers */,
+				1371F69D1ED5A2F500F1117B /* Delegates */,
+				1371F6921ED572DA00F1117B /* Animators */,
+				1371F6971ED5944D00F1117B /* Interactors */,
+				1371F69A1ED5A0DC00F1117B /* Views */,
 				1371F6831ED5710D00F1117B /* Assets.xcassets */,
 				1371F6881ED5710D00F1117B /* Info.plist */,
 			);
 			path = CustomTransitionsDemo;
 			sourceTree = "<group>";
 		};
-		1371F6911ED572B800F1117B /* controllers */ = {
+		1371F6911ED572B800F1117B /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				1371F67E1ED5710D00F1117B /* ViewController.swift */,
 				1371F68E1ED571BC00F1117B /* DetailViewController.swift */,
 			);
-			name = controllers;
+			name = Controllers;
 			sourceTree = "<group>";
 		};
-		1371F6921ED572DA00F1117B /* animators */ = {
+		1371F6921ED572DA00F1117B /* Animators */ = {
 			isa = PBXGroup;
 			children = (
 				1371F6931ED5730900F1117B /* DismissAnimator.swift */,
 				1371F6951ED5809300F1117B /* PresentAnimator.swift */,
 			);
-			name = animators;
+			name = Animators;
 			sourceTree = "<group>";
 		};
-		1371F6971ED5944D00F1117B /* interactors */ = {
+		1371F6971ED5944D00F1117B /* Interactors */ = {
 			isa = PBXGroup;
 			children = (
 				1371F6981ED594A600F1117B /* Interactor.swift */,
 			);
-			name = interactors;
+			name = Interactors;
 			sourceTree = "<group>";
 		};
-		1371F69A1ED5A0DC00F1117B /* views */ = {
+		1371F69A1ED5A0DC00F1117B /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				1371F6851ED5710D00F1117B /* LaunchScreen.storyboard */,
 				1371F6801ED5710D00F1117B /* Main.storyboard */,
 			);
-			name = views;
+			name = Views;
 			sourceTree = "<group>";
 		};
-		1371F69B1ED5A0ED00F1117B /* application */ = {
+		1371F69B1ED5A0ED00F1117B /* Application */ = {
 			isa = PBXGroup;
 			children = (
 				1371F67C1ED5710D00F1117B /* AppDelegate.swift */,
 			);
-			name = application;
+			name = Application;
 			sourceTree = "<group>";
 		};
-		1371F69D1ED5A2F500F1117B /* delegates */ = {
+		1371F69D1ED5A2F500F1117B /* Delegates */ = {
 			isa = PBXGroup;
 			children = (
 				1371F69E1ED5A34A00F1117B /* ModalTransitionDelegate.swift */,
 			);
-			name = delegates;
+			name = Delegates;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
